@@ -160,7 +160,7 @@ const _slideEnam = function () {
 // TypeIt strings: friendly, platonic college-friend tone
 new TypeIt("#teks1", {
   strings: [
-    "Hey! Sending you all my best wishes today.",
+    "Sending you all my best wishes today.",
     "May the things that try to bring you down instead push you to grow even stronger.",
     "May every step you take bring you closer to what you want."
   ],
