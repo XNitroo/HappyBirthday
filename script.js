@@ -162,18 +162,16 @@ new TypeIt("#teks1", {
   strings: [
     "Hey! Sending you all my best wishes today.",
     "May the things that try to bring you down instead push you to grow even stronger.",
-    "Wishing you safety and good vibes wherever you go.",
-    "Hope your days are always surrounded by care and support.",
     "May every step you take bring you closer to what you want."
   ],
-  startDelay: 4000,
-  speed: 75,
+  startDelay: 1000,
+  speed: 200,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
   strings: [
-    "Whether I'm there or not, I hope the universe keeps bringing you happy moments.",
+    "I hope the universe keeps bringing you happy moments.",
     "",
     "Thank you for sticking around and being you.",
     "",
@@ -181,15 +179,15 @@ new TypeIt("#teks2", {
 
     "Vishesh"
   ],
-  startDelay: 2000,
-  speed: 75,
+  startDelay: 1000,
+  speed: 200,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#trims", {
-  strings: ["Thanks so much."],
+  strings: ["Keep Smiling"],
   startDelay: 2000,
-  speed: 150,
+  speed: 75,
   loop: false,
   waitUntilVisible: true,
 }).go();
